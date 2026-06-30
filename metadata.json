@@ -1,0 +1,6 @@
+{
+  "name": "Muscat Construction Control",
+  "description": "Real-time field supervisor sync to executive office dashboard for leakage prevention in Muscat, Oman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
