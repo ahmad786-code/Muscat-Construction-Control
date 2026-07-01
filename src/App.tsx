@@ -19,10 +19,10 @@ export default function App() {
           <div className="space-y-1">
             <div className="flex items-center space-x-2 text-xs font-bold text-amber-500 tracking-wider uppercase">
               <Sparkles size={14} className="text-amber-500 animate-pulse" />
-              <span>Interactive Senior UX Showcase</span>
+              <span></span>
             </div>
             <h1 className="text-xl md:text-2xl font-black text-white tracking-tight uppercase">
-              Omani Construction <span className="text-amber-500 font-medium">Leakage-Prevention Portal</span>
+              Construction <span className="text-amber-500 font-medium">Leakage-Prevention Portal</span>
             </h1>
             <p className="text-xs text-slate-400 max-w-2xl font-medium">
               See how real-time digital matching from field supervisor PWAs instantly resolves double-billing and labor variance in Muscat, Oman.
